@@ -1,7 +1,12 @@
+
 # Desafio-Dio-Decolatech3
+
 Por que o Markdown é tão Por que o Markdown é tão popula?
+
 Link úteis 
 {Informções-Markdown}(https://www.makeuseof.com/why-is-markdown-popular-reasons-you-should-use-it/)
+
+
 Markdown está ganhando popularidade entre escritores, desenvolvedores e criadores de conteúdo devido à sua versatilidade. É uma linguagem de marcação gratuita que você pode usar para formatar texto simples e gerar diferentes saídas. Isso implica que você não precisa mais investir em software caro para criar e publicar conteúdo diversificado.
 
 Muitos editores gratuitos podem ser baixados ou usados ​​online, tornando o Markdown adequado para indivíduos e equipes. Aqui, explicaremos o que é Markdown e por que vale a pena usá-lo.
